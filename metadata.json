@@ -1,0 +1,6 @@
+{
+  "name": "Construction Contractor Tender Preparation Suite — PPA 2025",
+  "description": "Comprehensive tender preparation, compliance verification, and qualification management system for Ethiopian construction contractors under PPA standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
